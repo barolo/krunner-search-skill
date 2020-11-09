@@ -1,4 +1,4 @@
-# <img src='https://rawgithub.com/FortAwesome/Font-Awesome/master/advanced-options/raw-svg/solid/search.svg' card_color='#4E5687' width='50' height='50' style='vertical-align:bottom'/> Krunner Search
+# <img src='https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/search.svg' card_color='#4E5687' width='50' height='50' style='vertical-align:bottom'/> Krunner Search
 Krunner enables users to search their local desktop for files, images, recent documents, bookmarks and utilize other krunner plugins.
 
 ## About 
