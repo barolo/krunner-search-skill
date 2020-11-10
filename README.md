@@ -22,4 +22,4 @@ platform_plasmoid
 **Productivity**
 
 ## Tags
-#desktop #kde #krunner #control #plasma #search #bookmarks #recent #documents
+#desktop #kde #krunner #control #mycroft #plasma #search #bookmarks #recent #documents
